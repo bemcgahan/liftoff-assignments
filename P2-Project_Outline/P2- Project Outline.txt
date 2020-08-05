@@ -13,18 +13,21 @@ events in their user profile.
 
 The idea for this application came from the desire to connect with family and friends through activities we enjoyed 
 prior to the COVID pandemic. Wine tasting is an activity normally done in person with worksheets and printed out 
-information about the selected wine. True Tastings provides a streamlined way for users reference wine descriptions 
-and share their tasting notes
+information about the selected wine. True Tastings provides a streamlined way for users to reference wine descriptions 
+and share their tasting notes with other participants. 
 
 
 **********
 *Features*
 **********
 
--- create an event
--- create a user profile
--- form 
--- search feature for looking up wine
+-- create an event: any user can create an event by providing a name, date, inviting existing users, and select the 
+	three wines to be tasted
+-- create a user profile: a new user can create a profile for the ability to submit forms and keep track of events 
+	and wine tasted.
+-- submit a form: during an event, each user will fill out a form on tasting notes for each wine. There will also 
+	be an overall score for each wine. 
+-- search feature for looking up wine: when creating an event, the user can search through the API to select the wines.
 
 
 **************
@@ -35,6 +38,7 @@ and share their tasting notes
 -- SpringBoot
 -- MySQL
 -- Hibernate
+-- API
 
 *************************
 *What I'll Have to Learn*
@@ -44,6 +48,11 @@ I will have to learn how to use and incorporate data from an API. I would like t
 on name and populate the wine descriptions on the event page based on the wines selected. I also need to figure
 out how to host the website on a server and how to configure the database in order for other users to access
 the website.
+
+Another aspect of the project I'm still trying to hash out is how to have user profiles without a login feature. I 
+would like a way for users to select their name and see a collection of all the wines they have rated from multiple 
+events. What would stop someone from participating as the wrong user? Should the users' results be connected to the 
+event instead?
 
 
 *****************
