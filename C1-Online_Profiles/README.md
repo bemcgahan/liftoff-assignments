@@ -13,6 +13,6 @@ https://github.com/bemcgahan
 https://www.linkedin.com/in/brenna-mcgahan-72512254/
 
 ### Resume
-[Resume](https://github.com/bemcgahan/liftoff-assignments/blob/master/C1-Outline_Profiles/McGahan_Resume.pdf)
+[Resume](https://github.com/bemcgahan/liftoff-assignments/blob/master/C1-Online_Profiles/McGahan_Resume.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
